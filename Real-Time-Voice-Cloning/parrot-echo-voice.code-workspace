@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "parrot-echo-voice",
+			"path": "../../../../../Downloads/parrot-echo-voice/parrot-echo-voice"
+		},
+		{
+			"name": "ParrotAI",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
